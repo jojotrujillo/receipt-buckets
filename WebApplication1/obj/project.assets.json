@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\May\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\May\\source\\repos\\jojotrujillo\\receipt-buckets\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\May\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\May\\source\\repos\\jojotrujillo\\receipt-buckets\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\May\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\May\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\May\\source\\repos\\jojotrujillo\\receipt-buckets\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\May\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ C:\Users\May\source\repos\WebApplication1\bin\Debug\WebApplication1.pdb
 C:\Users\May\source\repos\WebApplication1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\May\source\repos\WebApplication1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Users\May\source\repos\WebApplication1\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\appsettings.Development.json
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\appsettings.json
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\WebApplication1.deps.json
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\WebApplication1.runtimeconfig.json
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\WebApplication1.exe
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\WebApplication1.dll
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\bin\Debug\WebApplication1.pdb
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\May\source\repos\jojotrujillo\receipt-buckets\obj\Debug\docker-compose.dcproj.CopyComplete
